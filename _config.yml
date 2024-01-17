@@ -102,14 +102,11 @@ theme: gal
 
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
+deploy: 
   type: git
-  ##repo: https://gitee.com/Funccccc/Funccccc.git
-  repo: https://Funccccc.github.io
-  #repo: https://github.com/Funccccc/Funccccc.github.io.git
+  repo: https://github.com/Funccccc/Funccccc.github.io.git
   branch: master
-  message: 
+
 
 jsonContent:
   dateFormat: MM-DD
